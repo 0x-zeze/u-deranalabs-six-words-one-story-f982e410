@@ -2,7 +2,7 @@
 
 [![make.fun](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410)
 [![rank](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/0x-zeze/u-deranalabs-six-words-one-story-f982e410/rank.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410)
-[![reward](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/reward.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410)
+[![reward](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/0x-zeze/u-deranalabs-six-words-one-story-f982e410/reward.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410)
 
 An entry for make.fun's **"Six Words, One Story"** bounty ($5, top 3) — a
 complete story told in exactly six words.
